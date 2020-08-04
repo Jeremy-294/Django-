@@ -8,7 +8,36 @@
  - 已注册过的用户名不能再注册，同时密码不正确无法登录
  - 学生信息，教师信息，学校通知进行增删查改，并保存到数据库sqlite3
  - 首页图片轮播效果
+ 
+ # 开发技术
+ - python  Django
+ - Boostrap4
+ - sqlite3
+ 
+ # 软件 
+ - PyCharm
 
 # 图片展示
 
-### 首页![](https://img-blog.csdnimg.cn/20200628113210464.gif)
+### 动态图展示
+![](https://img-blog.csdnimg.cn/20200628113210464.gif)
+![](https://img-blog.csdnimg.cn/20200628113209265.gif)
+![](https://img-blog.csdnimg.cn/20200628113208923.gif)
+![](https://img-blog.csdnimg.cn/20200628113208571.gif)
+![](https://img-blog.csdnimg.cn/20200628113530481.gif)
+
+### 首页
+![](https://img-blog.csdnimg.cn/20200628114008241.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20200628114213899.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+
+### 学生信息管理页面
+![](https://img-blog.csdnimg.cn/20200628114346449.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+
+### 教师信息管理页面
+![](https://img-blog.csdnimg.cn/20200628114423984.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+
+### 其他页面
+![](https://img-blog.csdnimg.cn/20200628114459564.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20200628114715741.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20200628114850460.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20200628114941406.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzY0ODAxNw==,size_16,color_FFFFFF,t_70)
